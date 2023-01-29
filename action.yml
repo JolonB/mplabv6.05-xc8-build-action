@@ -1,4 +1,4 @@
-name: Build with MPLAB X and XC8
+name: Build with MPLAB v6.05 and XC8 v2.40
 description: This action builds a MPLAB X / XC8 project in a Linux container.
 branding:
   icon: package
